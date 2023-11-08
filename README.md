@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maundu55
-- 👀 I’m interested in getting an entry level role in software development
-- 🌱 I’m currently learning Software engineering @ALX
+- 👀 I’m interested in getting an entry level role in frontend software development
 - 💞️ I’m looking to collaborate on available projects for beginners
 - 📫 How to reach me (marymaundum@gmail.com)
 
