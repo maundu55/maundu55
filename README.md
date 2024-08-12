@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maundu55
-- 👀 I’m interested in getting an entry level role in frontend software development
+- 👀 Looking forward to my first role in frontend software development
 - 💞️ I’m looking to collaborate on available projects for beginners
 - 📫 How to reach me (marymaundum@gmail.com)
 
